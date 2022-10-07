@@ -1,6 +1,6 @@
 # yolov4-deepsort with Crop and CSV
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zmeSTP3J5zu2d5fHgsQC06DyYEYJFXq1?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1t7hy9IW1s3GQX7mMdvIftwRqP42IkU-7#scrollTo=_MW-p089pqYd)
 
 This is a modified version of theAIGuysCode/yolov4-deepsort. I needed this code to also crop the detected bouding boxes into seprate image files and have these recoded in a csv file.
 
