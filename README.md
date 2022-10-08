@@ -2,7 +2,7 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1t7hy9IW1s3GQX7mMdvIftwRqP42IkU-7#scrollTo=_MW-p089pqYd)
 
-This is a modified version of theAIGuysCode/yolov4-deepsort. I needed this code to also crop the detected bouding boxes into seprate image files and have these recoded in a csv file.
+This is a modified version of theAIGuysCode/yolov4-deepsort. There is an informative video of how he does this and how it works https://www.youtube.com/watch?v=_zrNUzDS8Zc. I needed this code to also crop the detected bouding boxes into seprate image files and have these recoded in a csv file.
 
 Object tracking implemented with YOLOv4, DeepSort, and TensorFlow. YOLOv4 is a state of the art algorithm that uses deep convolutional neural networks to perform object detections. We can take the output of YOLOv4 feed these object detections into Deep SORT (Simple Online and Realtime Tracking with a Deep Association Metric) in order to create a highly accurate object tracker.
 
