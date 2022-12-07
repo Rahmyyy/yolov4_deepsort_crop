@@ -41,6 +41,7 @@ Make sure to use CUDA Toolkit version 10.1 as it is the proper version for the T
 https://developer.nvidia.com/cuda-10.1-download-archive-update2
 
 ## Downloading Official YOLOv4 Pre-trained Weights
+--NOTE-- this step is already done in this implemenation of the code
 Our object tracker uses YOLOv4 to make the object detections, which deep sort then uses to track. There exists an official pre-trained YOLOv4 object detector model that is able to detect 80 classes. For easy demo purposes we will use the pre-trained weights for our tracker.
 Download pre-trained yolov4.weights file: https://drive.google.com/open?id=1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT
 
